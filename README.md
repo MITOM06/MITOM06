@@ -13,6 +13,7 @@ realtime chat, calls and meetings
 | | |
 |---|---|
 | **[PON](https://github.com/MITOM06/platform)** | Personal project. Self-hosted enterprise chat platform with a personal AI assistant for every employee — realtime chat, LiveKit calls and meetings with AI notes, RAG knowledge base, governed MCP connectors, RBAC, 2FA and SSO. *NestJS · Spring Boot · Flutter · Next.js · MongoDB · Redis · RabbitMQ · Qdrant* |
+| **[MarketLink](https://github.com/hoangtuanqn/market-link)** 🎓 | Pre-order fresh produce from farmers at Ho Chi Minh City's weekend markets, then pick it up at the stall — orders split per farmer, stock reserved at checkout, pickup slots, reviews. TechWiz 7 team entry; **top contributor** (300+ commits, 100+ merged PRs). [Live demo](https://marketlink.ponplatform.com/). *Java 25 · Spring Boot 4 · React 19 · TypeScript · MySQL* |
 | **[homelab-as-code](https://github.com/MITOM06/homelab-as-code)** | Personal project. An old laptop turned into a reproducible, locked-down Linux lab — Ubuntu autoinstall without a USB stick, Ansible, nftables, Tailscale ACLs, Docker. *Ansible · cloud-init · Bash · PowerShell* |
 | **[AGRI-SCAN AI](https://github.com/MITOM06/AGRI-SCAN-AI)** 🎓 | AI plant doctor: diagnose rice-leaf diseases from a photo and get care advice, on web and mobile. HUTECH Website & AI Innovation Contest 2026. *PyTorch · FastAPI · LangChain · NestJS · Next.js · Expo* |
 | **[SOUL](https://github.com/MITOM06/SOUL)** 🎓 | Digital library for e-books and podcasts with subscriptions, in-browser reader and admin console. *Laravel · Next.js · TypeScript* — FPT Aptech semester project |
@@ -22,7 +23,7 @@ realtime chat, calls and meetings
 
 #### Stack
 
-**Backend** NestJS · Spring Boot · FastAPI · Laravel &nbsp;·&nbsp; **Frontend** Next.js · React · Tailwind
+**Backend** NestJS · Spring Boot · Java · FastAPI · Laravel &nbsp;·&nbsp; **Frontend** Next.js · React · Tailwind
 &nbsp;·&nbsp; **Mobile** Flutter · Expo / React Native &nbsp;·&nbsp; **Data** MongoDB · Redis · RabbitMQ ·
 Qdrant · MySQL &nbsp;·&nbsp; **AI** Claude API · RAG · MCP · PyTorch · LangChain &nbsp;·&nbsp; **Ops** Docker · Ansible ·
 GitHub Actions · Caddy · Cloudflare Tunnel · Vercel
